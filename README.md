@@ -8,7 +8,7 @@ One brutally honest but still polite out-of-office auto-reply for make.fun's "Th
 
 The entry line:
 
-> I'm away on annual leave, happily ignoring an inbox of 400 unread emails that will still be waiting when I return. Thank you for your patience — I'll reply soon.
+> I'm on annual leave and honestly relieved to be away from my inbox — 400 unread emails will still be there when I'm back. Thank you for your patience; I'll reply then.
 
 Run it with `python3 main.py` and it writes the line to `/output/entry.txt`.
 
